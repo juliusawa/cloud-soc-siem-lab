@@ -1,6 +1,7 @@
-<img width="1463" height="924" alt="Screenshot 2026-09-18 at 02 40 54" src="https://github.com/user-attachments/assets/d005cebf-0d9f-4288-b5c6-514883ab4054" />
-<img width="1463" height="924" alt="Screenshot 2026-09-18 at 01 47 43" src="https://github.com/user-attachments/assets/775aa678-798c-42e6-8b80-5bd956f87fad" />
-<img width="1463" height="924" alt="Screenshot 2026-09-18 at 01 09 45" src="https://github.com/user-attachments/assets/ed6813ae-ba5c-4b53-a5e8-c95f5919a150" />
+<img width="1463" height="924" alt="! Kibana Log (Screenshot%202026-09-18%20at%2002 40 54 jpg)" src="https://github.com/user-attachments/assets/20bb59c8-d383-45b4-b656-5ebcd9ce69e4" />
+<img width="1463" height="924" alt="! Elastic Agent (Screenshot%202026-09-18%20at%2001 47 43 jpg)" src="https://github.com/user-attachments/assets/055479be-4ba0-4100-8559-30aa7aaeaffb" />
+<img width="1463" height="924" alt="! UTM Config (Screenshot%202026-09-18%20at%2001 09 45 jpg)" src="https://github.com/user-attachments/assets/22198750-7a8e-4fb8-9807-763dc02609d6" />
+
 
 # Cloud-Assisted SOC & Endpoint Monitoring Lab
 
