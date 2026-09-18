@@ -1,3 +1,6 @@
+<img width="1463" height="924" alt="Screenshot 2026-09-18 at 02 40 54" src="https://github.com/user-attachments/assets/d005cebf-0d9f-4288-b5c6-514883ab4054" />
+<img width="1463" height="924" alt="Screenshot 2026-09-18 at 01 47 43" src="https://github.com/user-attachments/assets/775aa678-798c-42e6-8b80-5bd956f87fad" />
+<img width="1463" height="924" alt="Screenshot 2026-09-18 at 01 09 45" src="https://github.com/user-attachments/assets/ed6813ae-ba5c-4b53-a5e8-c95f5919a150" />
 
 # Cloud-Assisted SOC & Endpoint Monitoring Lab
 
