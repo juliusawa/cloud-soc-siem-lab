@@ -47,3 +47,4 @@ Using Kibana's *Discover* pane, a Lucene/KQL query was built to isolate the mali
 * *Security Operations (SecOps):* Log ingestion, data pipeline engineering, SIEM dashboard auditing.
 * *Systems Architecture:* Virtualization optimization, multi-node resource allocation.
 * *Technical Writing:* Comprehensive system auditing and deployment documentation.
+
