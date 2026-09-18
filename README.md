@@ -1,6 +1,4 @@
-![Uploading Screenshot 2026-09-18 at 01.09.45.png…]()
-<img width="1463" height="924" alt="Screenshot 2026-09-18 at 02 40 54" src="https://github.com/user-attachments/assets/998c2e26-cf53-462f-b05e-66169cb4314e" />
-<img width="1463" height="924" alt="Screenshot 2026-09-18 at 01 47 43" src="https://github.com/user-attachments/assets/1b99295d-a293-455c-9051-1716fc10085e" />
+
 # Cloud-Assisted SOC & Endpoint Monitoring Lab
 
 ## Project Overview
