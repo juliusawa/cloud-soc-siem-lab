@@ -19,7 +19,7 @@ To prevent physical hardware exhaustion, an isolated virtual endpoint was deploy
 * UTM was utilized to interface directly with Apple's native Virtualization Framework.
 * The system was systematically optimized down to 3GB RAM to safeguard host OS stability.
 
-![UTM Config](Screenshot%202026-09-18%20at%2001%2009%2045.png)
+![UTM Config](Screenshot%202026-09-18%20at%2001.09.45.png)
 
 ### Phase 2: Cloud SIEM Provisioning & Agent Enrollment
 An enterprise-grade Elastic SIEM cluster was spun up in the cloud to manage log ingestion, parsing, and data visualization. 
@@ -27,7 +27,7 @@ An enterprise-grade Elastic SIEM cluster was spun up in the cloud to manage log 
 * Opened the administrative Terminal inside the UTM macOS environment.
 * Successfully executed the background daemon installation and established a secure TLS connection back to the Cloud Fleet.
 
-![UTM Config](Screenshot%202026-09-18%20at%2001%2009%2045.png)
+![Elastic Agent](Screenshot%202026-09-18%20at%2001.47.43.png)
 
 ### Phase 3: Telemetry Validation & Security Event Simulation
 To verify data pipeline integrity, a mock administrative privilege manipulation was executed inside the virtual endpoint:
@@ -39,7 +39,7 @@ The endpoint agent captured the command line event, structured the telemetry met
 ### Phase 4: Analytical Log Analysis
 Using Kibana's *Discover* pane, a Lucene/KQL query was built to isolate the malicious telemetry payload. The audit record successfully confirmed the timestamp, host variables, and executing string data.
 
-![Kibana Log](Screenshot%202026-09-18%20at%2002%2040%2054.png)
+![Kibana Log](Screenshot%202026-09-18%20at%2002.40.54.png)
 
 
 ## Key Skills Demonstrated
